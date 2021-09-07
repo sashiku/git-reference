@@ -1,5 +1,5 @@
 #### Configure Tooling
-| ==Configure information for all local repositories== |
+| <mark>Configure information for all local repositories</mark> |
 | :--- |
 | `$ git config --global user.name "[name]"` <br> Sets the name you want attached to your commit transactions |
 | `$ git config --global user.email "[email address]"` <br> Sets the email you want attached to your commit transactions |
