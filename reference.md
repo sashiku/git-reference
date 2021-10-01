@@ -22,8 +22,8 @@
  `$ git commit -m "[descriptive message]"` <br> Records file snapshots permanently in version history |
 
 ### Group Changes |
- :---|
  Name a series of commits and combine completed efforts |
+ :--- |
  `$ git branch` <br> Lists all local branches in the current repository |
  `$ git branch [branch-name]` <br> Creates a new branch |
  `$ git checkout [branch-name]` <br> Switches to the specified branch and updates the working directory |
