@@ -11,7 +11,7 @@
  `git init [project-name]` <br> creates a new local repository with the specified name |
  `$ git clone [url]` <br> Downloads a project and its entire version history |
 
-#### Make Changes
+### Make Changes
  Review edits and craft a commit transaction |
  :--- |
  `$ git status` <br> Lists all new or modified files to be committed |
@@ -21,7 +21,8 @@
  `$ git reset [file]` <br> Unstages the file, but preserves its contents |
  `$ git commit -m "[descriptive message]"` <br> Records file snapshots permanently in version history |
 
-#### Group Changes
+### Group Changes |
+ :---|
  Name a series of commits and combine completed efforts |
  `$ git branch` <br> Lists all local branches in the current repository |
  `$ git branch [branch-name]` <br> Creates a new branch |
