@@ -40,7 +40,9 @@
 ### Suppress Tracking
  Exclude temporary files and paths |
  :--- |
- ```*.log <br> build/ <br> temp-*``` <br> A text file named .gitignore suppresses accidental versioning of files and paths matching the specific patterns |
+ ```*.log
+ build/
+ temp-*``` <br> A text file named .gitignore suppresses accidental versioning of files and paths matching the specific patterns |
  `$ git ls-files --other --ignored --exclude-standard` <br> Lists all ignored files in this project |
 
 
