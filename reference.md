@@ -21,7 +21,7 @@
  `$ git reset [file]` <br> Unstages the file, but preserves its contents |
  `$ git commit -m "[descriptive message]"` <br> Records file snapshots permanently in version history |
 
-### Group Changes |
+### Group Changes
  Name a series of commits and combine completed efforts |
  :--- |
  `$ git branch` <br> Lists all local branches in the current repository |
@@ -30,14 +30,14 @@
  `$ git merge [branch]` <br> Combines the specified branch's history into the current branch |
  `$ git branch -d [branch-name]` <br> Deletes the specified branch |
 
-### Refactor Filenames |
+### Refactor Filenames
  Relocate and remove versioned files |
  :--- |
  `$ git rm [file]` <br> Deletes the file from the working directory and stages the deletion |
  `$ git rm --cached [file]` <br> Removes the file from the version control but preserves the file locally |
  `$ git mv [file-original] [file-renamed]` <br> Changes the file name and prepares it for a commit |
 
-### Suppress Tracking |
+### Suppress Tracking
  Exclude temporary files and paths |
  :--- |
  ```*.log <br> build/ <br> temp-*``` <br> A text file named .gitignore suppresses accidental versioning of files and paths matching the specific patterns |
