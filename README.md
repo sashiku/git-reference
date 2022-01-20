@@ -6,6 +6,6 @@ This is not an exhaustive or a comprehensive list of Git commands. My intention 
 
 The exact version of the Github Education Git cheatsheet that I had is digitized as a markdown file: [og-reference](og-reference.md). You can find an updated `.pdf` file from Github Education [here](https://education.github.com/git-cheat-sheet-education.pdf)
 
-🔎 &nbsp; Please do check out [Getting Git Right](https://www.atlassian.com/git) a wonderful resrouce by Bitbucket to learn Git. Has great illustrations!
+🔎 &nbsp; Please do check out [Getting Git Right](https://www.atlassian.com/git) a wonderful resrouce by Bitbucket to learn Git. Has great illustrations! 
 
 ---
