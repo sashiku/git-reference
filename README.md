@@ -1,4 +1,4 @@
-# Git good with [git-reference](reference.md) 🦾
+# Git good with [git-reference](reference.md)  🦾
 🔗  &nbsp; ~~[Website](url)~~ | 🗒️  &nbsp; [Markdown](og-reference.md)
 ---|---
 
